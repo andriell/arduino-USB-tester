@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="490"
+   height="300"
+   viewBox="3977.9 3398 489.99999 299.99999"
+   version="1.1"
+   id="svg257"
+   sodipodi:docname="PCB_PCB_USBTester_2021-03-25.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   style="shape-rendering:crispEdges">
+  <metadata
+     id="metadata263">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs261" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview259"
+     showgrid="false"
+     inkscape:document-units="px"
+     inkscape:zoom="1"
+     inkscape:cx="74.13102"
+     inkscape:cy="82.616792"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg257"
+     units="px"
+     scale-x="1" />
+  <style
+     type="text/css"
+     id="style4">
+*[layerid=&quot;1&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;2&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;3&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;4&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;5&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;6&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;7&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;8&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;9&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;10&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;11&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;12&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;13&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;14&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;15&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;19&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;21&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;22&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;23&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;24&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;25&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;26&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;27&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;28&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;29&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;30&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;31&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;32&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;33&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;34&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;35&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;36&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;37&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;38&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;39&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;40&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;41&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;42&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;43&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;44&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;45&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;46&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;47&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;48&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;49&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;50&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;51&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;52&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;99&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;100&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;101&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;Hole&quot;] {stroke:#000000;fill:#000000;}
+*[layerid=&quot;DRCError&quot;] {stroke:#000000;fill:#000000;}
+*[fill=&quot;none&quot;] {fill: none;}
+*[stroke=&quot;none&quot;] {stroke: none;}
+path, polyline, polygon, line {stroke-linecap:round;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;1&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;2&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] ellipse:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polygon:not([c_etype=&quot;pad_outer&quot;]) {fill:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] polyline:not([c_etype=&quot;pad_outer&quot;]) {stroke:#000000;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] circle {fill:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;] &gt; polyline:nth-of-type(2) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;ELLIPSE&quot;]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;RECT&quot;]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;][layerid=&quot;11&quot;][c_shape=&quot;POLYGON&quot;]  polyline:nth-last-of-type(1) {stroke:#FFFFFF;}
+g[c_partid=&quot;part_via&quot;] &gt; * + circle, #gCurParts g[c_partid=&quot;part_via&quot;] &gt; * + circle {fill:#FFFFFF;}
+g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;], #gCurParts g[c_partid=&quot;part_pad&quot;] &gt; polygon[c_etype=&quot;pad_outer&quot;] {stroke-linejoin: miter;stroke-miterlimit: 100;}
+g[c_partid=&quot;part_hole&quot;] &gt; circle {fill: #FFFFFF;}path, polyline, polygon {stroke-linejoin:round;}
+rect, circle, ellipse, polyline, line, polygon, path {shape-rendering:crispEdges;}
+</style>
+  <polyline
+     points="4179.784 3424.206 4193.96 3424.226"
+     layerid="2"
+     net="OUT_1"
+     id="gge1504"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4115 3518 4127.5 3518 4129.89 3516.012"
+     layerid="2"
+     net="IN_4"
+     id="gge1399"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4095 3512 4095 3513 4100 3518 4112.39 3518"
+     layerid="2"
+     net="IN_4"
+     id="gge1398"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4080 3508 4091 3508 4095 3512"
+     layerid="2"
+     net="IN_4"
+     id="gge1397"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4070 3508 4080 3508"
+     layerid="2"
+     net="IN_4"
+     id="gge1395"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4110.5 3451.5 4063.5 3451.5 4062.5 3452.5"
+     layerid="2"
+     net="OUT_4"
+     id="gge1382"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4039.918 3451.778 4061.778 3451.778 4062.5 3452.5"
+     layerid="2"
+     net="OUT_4"
+     id="gge1375"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4060 3508 4067.39 3508"
+     layerid="2"
+     net="IN_4"
+     id="gge1374"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4040 3518 4050 3508 4057.39 3508"
+     layerid="2"
+     net="IN_4"
+     id="gge1373"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4030.0785 3412.8035 4030.0785 3463.1965"
+     layerid="2"
+     net="GND"
+     id="gge1122"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4201.04 3414.97 4210 3423.93 4210 3435.1 4210 3448 4201.04 3456.96 4201.04 3461.03"
+     layerid="2"
+     net="GND"
+     id="gge1121"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4030.079 3412.804 4032.244 3414.969 4201.0439 3414.969"
+     layerid="2"
+     net="GND"
+     id="gge1120"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4126.5 3468 4110 3468 4100 3460.5 4082.5 3460.5 4070 3468 4050 3468 4047.5 3470.5 4047.5 3478"
+     layerid="2"
+     net="R5_2"
+     id="gge1180"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4070 3498 4060 3498"
+     layerid="2"
+     net="U1_2"
+     id="gge1165"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4040 3498 4040 3498 4062.5 3484.5"
+     layerid="2"
+     net="R2_2"
+     id="gge1185"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4081 3480 4095 3480"
+     layerid="2"
+     net="R3_2"
+     id="gge1168"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4094.5 3468 4095 3468.5 4095 3480"
+     layerid="2"
+     net="R3_2"
+     id="gge1169"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4145 3468 4126.5 3468"
+     layerid="2"
+     net="R5_2"
+     id="gge1178"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4080 3498 4070 3498"
+     layerid="2"
+     net="U1_2"
+     id="gge1164"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4115 3508 4115 3498 4080 3498"
+     layerid="2"
+     net="U1_2"
+     id="gge1167"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4132.5 3479.988 4132.5 3480.5 4115 3498 4115 3508"
+     layerid="2"
+     net="U1_2"
+     id="gge1166"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4037.5 3478 4037.5 3495.5 4040 3498"
+     layerid="2"
+     net="R2_2"
+     id="gge1181"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4164.5 3451.5 4164.5 3467.5 4165 3468"
+     layerid="2"
+     net="IN_4"
+     id="gge1415"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4132.5 3516.012 4192.5 3516.012"
+     layerid="2"
+     net="IN_4"
+     id="gge1417"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4165 3468 4165 3503 4165.28 3516.01"
+     layerid="2"
+     net="IN_4"
+     id="gge1416"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4039.918 3424.219 4079.219 3424.219 4081 3426"
+     layerid="2"
+     net="OUT_1"
+     id="gge1422"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4192.5 3479.988 4192.5 3474.5 4180 3468"
+     layerid="2"
+     net="OUT_1"
+     id="gge1482"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4081 3426 4084 3424 4179.7845 3424.206"
+     layerid="2"
+     net="OUT_1"
+     id="gge1463"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4039.92 3441.94 4193.96 3441.94"
+     layerid="2"
+     net="OUT_3"
+     id="gge1420"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4193.961 3451.785 4164.785 3451.785 4164.5 3451.5"
+     layerid="2"
+     net="IN_4"
+     id="gge1414"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4039.92 3434.06 4193.96 3434.07"
+     layerid="2"
+     net="OUT_2"
+     id="gge1421"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4179.784,3424.206"
+     layerid="11"
+     number="1"
+     net="OUT_1"
+     plated="Y"
+     id="gge1468"
+     locked="1"
+     c_rotation="0"
+     c_width="6"
+     c_height="6"
+     title="OUT_1"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4179.7842"
+       cy="3424.2061"
+       layerid="11"
+       id="ellipse39"
+       r="3"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4179.7847"
+       cy="3424.2061"
+       r="1.5748"
+       layerid="11"
+       id="circle41"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4180,3468"
+     layerid="11"
+     number="3"
+     net="OUT_1"
+     plated="Y"
+     id="gge1491"
+     locked="1"
+     c_rotation="90"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="OUT_1"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4180"
+       cy="3468"
+       layerid="11"
+       id="ellipse44"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4180"
+       cy="3468"
+       r="1.5748"
+       layerid="11"
+       id="circle46"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4193.96,3424.226"
+     layerid="11"
+     number="1"
+     net="OUT_1"
+     plated="Y"
+     id="gge1284"
+     locked="1"
+     c_rotation="0"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="OUT_1"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4193.96"
+       cy="3424.2261"
+       layerid="11"
+       id="ellipse49"
+       r="2.7558999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4193.9604"
+       cy="3424.2256"
+       r="1.5748"
+       layerid="11"
+       id="circle51"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4193.961,3434.068"
+     layerid="11"
+     number="2"
+     net="OUT_2"
+     plated="Y"
+     id="gge1289"
+     locked="0"
+     c_rotation="0"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="OUT_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4193.9609"
+       cy="3434.0681"
+       layerid="11"
+       id="ellipse54"
+       r="2.7558999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4193.9614"
+       cy="3434.0681"
+       r="1.5748"
+       layerid="11"
+       id="circle56"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4193.961,3441.942"
+     layerid="11"
+     number="3"
+     net="OUT_3"
+     plated="Y"
+     id="gge1294"
+     locked="0"
+     c_rotation="0"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="OUT_3"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4193.9609"
+       cy="3441.9419"
+       layerid="11"
+       id="ellipse59"
+       r="2.7558999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4193.9614"
+       cy="3441.9419"
+       r="1.5748"
+       layerid="11"
+       id="circle61"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4193.961,3451.785"
+     layerid="11"
+     number="4"
+     net="IN_4"
+     plated="Y"
+     id="gge1299"
+     locked="0"
+     c_rotation="0"
+     c_width="5.5118"
+     c_height="5.5118"
+     title="IN_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4193.9609"
+       cy="3451.7849"
+       layerid="11"
+       id="ellipse64"
+       r="2.7558999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4193.9614"
+       cy="3451.7844"
+       r="1.5748"
+       layerid="11"
+       id="circle66"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4201.048,3414.974"
+     layerid="11"
+     number="MH1"
+     net="GND"
+     plated="Y"
+     id="gge1304"
+     locked="0"
+     c_rotation="0"
+     c_width="12.5984"
+     c_height="12.5984"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4201.0479"
+       cy="3414.9741"
+       layerid="11"
+       id="ellipse69"
+       r="6.2992001"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4201.0479"
+       cy="3414.9734"
+       r="4.7244"
+       layerid="11"
+       id="circle71"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4201.048,3461.037"
+     layerid="11"
+     number="MH2"
+     net="GND"
+     plated="Y"
+     id="gge1309"
+     locked="0"
+     c_rotation="0"
+     c_width="12.5984"
+     c_height="12.5984"
+     title="GND"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4201.0479"
+       cy="3461.0371"
+       layerid="11"
+       id="ellipse74"
+       r="6.2992001"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4201.0479"
+       cy="3461.0366"
+       r="4.7244"
+       layerid="11"
+       id="circle76"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4030.075,3412.802"
+     layerid="11"
+     number="6"
+     net="GND"
+     plated="Y"
+     id="gge1327"
+     locked="0"
+     c_rotation="270"
+     c_width="3.937"
+     c_height="13.7795"
+     title="GND"
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polyline
+       c_etype="pad_shell"
+       points="4034.9963 3412.802 4025.1538 3412.802"
+       layerid="11"
+       id="polyline79"
+       style="fill:#000000;stroke:#000000;stroke-width:3.93700004;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <polyline
+       c_etype="pad_hole"
+       points="4025.3511 3412.8018 4034.7999 3412.8018"
+       layerid="11"
+       id="polyline81"
+       style="fill:#000000;stroke:#000000;stroke-width:2.36220002;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4030.075,3463.195"
+     layerid="11"
+     number="5"
+     net="GND"
+     plated="Y"
+     id="gge1332"
+     locked="0"
+     c_rotation="270"
+     c_width="3.937"
+     c_height="13.7795"
+     title="GND"
+     c_shape="OVAL"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polyline
+       c_etype="pad_shell"
+       points="4034.9963 3463.195 4025.1538 3463.195"
+       layerid="11"
+       id="polyline84"
+       style="fill:#000000;stroke:#000000;stroke-width:3.93700004;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <polyline
+       c_etype="pad_hole"
+       points="4025.3511 3463.1954 4034.7999 3463.1954"
+       layerid="11"
+       id="polyline86"
+       style="fill:#000000;stroke:#000000;stroke-width:2.36220002;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4039.918,3451.778"
+     layerid="11"
+     number="4"
+     net="OUT_4"
+     plated="Y"
+     id="gge1337"
+     locked="0"
+     c_rotation="270"
+     c_width="6"
+     c_height="6"
+     title="OUT_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4039.918"
+       cy="3451.7781"
+       layerid="11"
+       id="ellipse89"
+       r="3"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4039.918"
+       cy="3451.7781"
+       r="1.5748"
+       layerid="11"
+       id="circle91"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4039.918,3441.936"
+     layerid="11"
+     number="3"
+     net="OUT_3"
+     plated="Y"
+     id="gge1342"
+     locked="0"
+     c_rotation="270"
+     c_width="6"
+     c_height="6"
+     title="OUT_3"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4039.918"
+       cy="3441.936"
+       layerid="11"
+       id="ellipse94"
+       r="3"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4039.918"
+       cy="3441.936"
+       r="1.5748"
+       layerid="11"
+       id="circle96"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4039.918,3434.062"
+     layerid="11"
+     number="2"
+     net="OUT_2"
+     plated="Y"
+     id="gge1347"
+     locked="0"
+     c_rotation="270"
+     c_width="6"
+     c_height="6"
+     title="OUT_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4039.918"
+       cy="3434.062"
+       layerid="11"
+       id="ellipse99"
+       r="3"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4039.918"
+       cy="3434.062"
+       r="1.5748"
+       layerid="11"
+       id="circle101"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4039.918,3424.219"
+     layerid="11"
+     number="1"
+     net="OUT_1"
+     plated="Y"
+     id="gge1352"
+     locked="0"
+     c_rotation="270"
+     c_width="6"
+     c_height="6"
+     title="OUT_1"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polygon
+       c_etype="pad_shell"
+       points="4036.918,3421.219 4042.918,3421.219 4042.918,3427.219 4036.918,3427.219 "
+       layerid="11"
+       id="polygon104"
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4039.918"
+       cy="3424.219"
+       r="1.5748"
+       layerid="11"
+       id="circle106"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4164.5,3451.5"
+     layerid="11"
+     number="1"
+     net="IN_4"
+     plated="Y"
+     id="gge1016"
+     locked="0"
+     c_rotation="0"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="IN_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4164.5"
+       cy="3451.5"
+       layerid="11"
+       id="ellipse109"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4164.5"
+       cy="3451.5"
+       r="1.5748"
+       layerid="11"
+       id="circle111"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4110.5,3451.5"
+     layerid="11"
+     number="2"
+     net="OUT_4"
+     plated="Y"
+     id="gge1021"
+     locked="0"
+     c_rotation="0"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="OUT_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4110.5"
+       cy="3451.5"
+       layerid="11"
+       id="ellipse114"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4110.5"
+       cy="3451.5"
+       r="1.5748"
+       layerid="11"
+       id="circle116"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4080,3498"
+     layerid="11"
+     number="3"
+     net="U1_2"
+     plated="Y"
+     id="gge516"
+     locked="0"
+     c_rotation="0"
+     c_width="6.2"
+     c_height="6.2"
+     title="U1_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4080"
+       cy="3498"
+       layerid="11"
+       id="ellipse119"
+       r="3.0999999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4080"
+       cy="3498"
+       r="1.5748"
+       layerid="11"
+       id="circle121"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4070,3498"
+     layerid="11"
+     number="2"
+     net="U1_2"
+     plated="Y"
+     id="gge521"
+     locked="0"
+     c_rotation="0"
+     c_width="6.2"
+     c_height="6.2"
+     title="U1_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4070"
+       cy="3498"
+       layerid="11"
+       id="ellipse124"
+       r="3.0999999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4070"
+       cy="3498"
+       r="1.5748"
+       layerid="11"
+       id="circle126"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4060,3498"
+     layerid="11"
+     number="1"
+     net="U1_2"
+     plated="Y"
+     id="gge526"
+     locked="0"
+     c_rotation="0"
+     c_width="6.2"
+     c_height="6.2"
+     title="U1_2"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polygon
+       c_etype="pad_shell"
+       points="4056.9,3501.1 4056.9,3494.9 4063.1,3494.9 4063.1,3501.1 "
+       layerid="11"
+       id="polygon129"
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4060"
+       cy="3498"
+       r="1.5748"
+       layerid="11"
+       id="circle131"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4080,3508"
+     layerid="11"
+     number="3"
+     net="IN_4"
+     plated="Y"
+     id="gge541"
+     locked="0"
+     c_rotation="0"
+     c_width="6.2"
+     c_height="6.2"
+     title="IN_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4080"
+       cy="3508"
+       layerid="11"
+       id="ellipse134"
+       r="3.0999999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4080"
+       cy="3508"
+       r="1.5748"
+       layerid="11"
+       id="circle136"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4070,3508"
+     layerid="11"
+     number="2"
+     net="IN_4"
+     plated="Y"
+     id="gge546"
+     locked="0"
+     c_rotation="0"
+     c_width="6.2"
+     c_height="6.2"
+     title="IN_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4070"
+       cy="3508"
+       layerid="11"
+       id="ellipse139"
+       r="3.0999999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4070"
+       cy="3508"
+       r="1.5748"
+       layerid="11"
+       id="circle141"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4060,3508"
+     layerid="11"
+     number="1"
+     net="IN_4"
+     plated="Y"
+     id="gge551"
+     locked="0"
+     c_rotation="0"
+     c_width="6.2"
+     c_height="6.2"
+     title="IN_4"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polygon
+       c_etype="pad_shell"
+       points="4056.9,3511.1 4056.9,3504.9 4063.1,3504.9 4063.1,3511.1 "
+       layerid="11"
+       id="polygon144"
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4060"
+       cy="3508"
+       r="1.5748"
+       layerid="11"
+       id="circle146"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4037.5,3478"
+     layerid="11"
+     number="1"
+     net="R2_2"
+     plated="Y"
+     id="gge566"
+     locked="0"
+     c_rotation="0"
+     c_width="6.6929"
+     c_height="6.2"
+     title="R2_2"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polygon
+       c_etype="pad_shell"
+       points="4034.1536,3481.1 4034.1536,3474.9 4040.8465,3474.9 4040.8465,3481.1 "
+       layerid="11"
+       id="polygon149"
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4037.5"
+       cy="3478"
+       r="1.5748"
+       layerid="11"
+       id="circle151"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4047.5,3478"
+     layerid="11"
+     number="2"
+     net="R5_2"
+     plated="Y"
+     id="gge571"
+     locked="0"
+     c_rotation="0"
+     c_width="6.6929"
+     c_height="6.6929"
+     title="R5_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4047.5"
+       cy="3478"
+       layerid="11"
+       id="ellipse154"
+       r="3.3464501"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4047.5"
+       cy="3478"
+       r="1.5748"
+       layerid="11"
+       id="circle156"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4132.5,3479.988"
+     layerid="11"
+     number="2"
+     net="U1_2"
+     plated="Y"
+     id="gge325"
+     locked="0"
+     c_rotation="90"
+     c_width="6.6929"
+     c_height="6.6929"
+     title="U1_2"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polygon
+       c_etype="pad_shell"
+       points="4135.8465,3483.3347 4129.1535,3483.3347 4129.1535,3476.6417 4135.8465,3476.6417 "
+       layerid="11"
+       id="polygon159"
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4132.5"
+       cy="3479.9883"
+       r="1.5748"
+       layerid="11"
+       id="circle161"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4192.5,3479.988"
+     layerid="11"
+     number="1"
+     net="OUT_1"
+     plated="Y"
+     id="gge330"
+     locked="0"
+     c_rotation="90"
+     c_width="6.6929"
+     c_height="6.6929"
+     title="OUT_1"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polygon
+       c_etype="pad_shell"
+       points="4195.8465,3483.3347 4189.1535,3483.3347 4189.1535,3476.6417 4195.8465,3476.6417 "
+       layerid="11"
+       id="polygon164"
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4192.5"
+       cy="3479.9883"
+       r="1.5748"
+       layerid="11"
+       id="circle166"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4132.5,3516.012"
+     layerid="11"
+     number="3"
+     net="IN_4"
+     plated="Y"
+     id="gge335"
+     locked="0"
+     c_rotation="90"
+     c_width="6.6929"
+     c_height="6.6929"
+     title="IN_4"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polygon
+       c_etype="pad_shell"
+       points="4135.8465,3519.3584 4129.1535,3519.3584 4129.1535,3512.6654 4135.8465,3512.6654 "
+       layerid="11"
+       id="polygon169"
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4132.5"
+       cy="3516.012"
+       r="1.5748"
+       layerid="11"
+       id="circle171"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4192.5,3516.012"
+     layerid="11"
+     number="4"
+     net="IN_4"
+     plated="Y"
+     id="gge340"
+     locked="0"
+     c_rotation="90"
+     c_width="6.6929"
+     c_height="6.6929"
+     title="IN_4"
+     c_shape="RECT"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <polygon
+       c_etype="pad_shell"
+       points="4195.8465,3519.3584 4189.1535,3519.3584 4189.1535,3512.6654 4195.8465,3512.6654 "
+       layerid="11"
+       id="polygon174"
+       style="fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4192.5"
+       cy="3516.012"
+       r="1.5748"
+       layerid="11"
+       id="circle176"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4115,3508"
+     layerid="11"
+     number="1"
+     net="U1_2"
+     plated="Y"
+     id="gge351"
+     locked="0"
+     c_rotation="270"
+     c_width="6"
+     c_height="6"
+     title="U1_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4115"
+       cy="3508"
+       layerid="11"
+       id="ellipse179"
+       r="3"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4115"
+       cy="3508"
+       r="1.5748"
+       layerid="11"
+       id="circle181"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4115,3518"
+     layerid="11"
+     number="2"
+     net="IN_4"
+     plated="Y"
+     id="gge356"
+     locked="0"
+     c_rotation="270"
+     c_width="6"
+     c_height="6"
+     title="IN_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4115"
+       cy="3518"
+       layerid="11"
+       id="ellipse184"
+       r="3"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4115"
+       cy="3518"
+       r="1.5748"
+       layerid="11"
+       id="circle186"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4040,3518"
+     layerid="11"
+     number="1"
+     net="IN_4"
+     plated="Y"
+     id="gge366"
+     locked="0"
+     c_rotation="90"
+     c_width="5.9054"
+     c_height="5.9054"
+     title="IN_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4040"
+       cy="3518"
+       layerid="11"
+       id="ellipse189"
+       r="2.9526999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4040"
+       cy="3518"
+       r="1.5748"
+       layerid="11"
+       id="circle191"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4040,3498"
+     layerid="11"
+     number="2"
+     net="R2_2"
+     plated="Y"
+     id="gge371"
+     locked="0"
+     c_rotation="90"
+     c_width="5.9054"
+     c_height="5.9054"
+     title="R2_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4040"
+       cy="3498"
+       layerid="11"
+       id="ellipse194"
+       r="2.9526999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4040"
+       cy="3498"
+       r="1.5748"
+       layerid="11"
+       id="circle196"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4095,3480"
+     layerid="11"
+     number="1"
+     net="R3_2"
+     plated="Y"
+     id="gge426"
+     locked="0"
+     c_rotation="90"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="R3_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4095"
+       cy="3480"
+       layerid="11"
+       id="ellipse199"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4095"
+       cy="3480"
+       r="1.5748"
+       layerid="11"
+       id="circle201"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4095,3512"
+     layerid="11"
+     number="2"
+     net="IN_4"
+     plated="Y"
+     id="gge431"
+     locked="0"
+     c_rotation="90"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="IN_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4095"
+       cy="3512"
+       layerid="11"
+       id="ellipse204"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4095"
+       cy="3512"
+       r="1.5748"
+       layerid="11"
+       id="circle206"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4094.5,3468"
+     layerid="11"
+     number="1"
+     net="R3_2"
+     plated="Y"
+     id="gge441"
+     locked="0"
+     c_rotation="180"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="R3_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4094.5"
+       cy="3468"
+       layerid="11"
+       id="ellipse209"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4094.5"
+       cy="3468"
+       r="1.5748"
+       layerid="11"
+       id="circle211"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4126.5,3468"
+     layerid="11"
+     number="2"
+     net="R5_2"
+     plated="Y"
+     id="gge446"
+     locked="0"
+     c_rotation="180"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="R5_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4126.5"
+       cy="3468"
+       layerid="11"
+       id="ellipse214"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4126.5"
+       cy="3468"
+       r="1.5748"
+       layerid="11"
+       id="circle216"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4165,3468"
+     layerid="11"
+     number="1"
+     net="IN_4"
+     plated="Y"
+     id="gge636"
+     locked="0"
+     c_rotation="180"
+     c_width="5.9054"
+     c_height="5.9054"
+     title="IN_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4165"
+       cy="3468"
+       layerid="11"
+       id="ellipse219"
+       r="2.9526999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4165"
+       cy="3468"
+       r="1.5748"
+       layerid="11"
+       id="circle221"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4145,3468"
+     layerid="11"
+     number="2"
+     net="R5_2"
+     plated="Y"
+     id="gge641"
+     locked="0"
+     c_rotation="180"
+     c_width="5.9054"
+     c_height="5.9054"
+     title="R5_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4145"
+       cy="3468"
+       layerid="11"
+       id="ellipse224"
+       r="2.9526999"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4145"
+       cy="3468"
+       r="1.5748"
+       layerid="11"
+       id="circle226"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4062.5,3452.5"
+     layerid="11"
+     number="1"
+     net="OUT_4"
+     plated="Y"
+     id="gge725"
+     locked="0"
+     c_rotation="90"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="OUT_4"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4062.5"
+       cy="3452.5"
+       layerid="11"
+       id="ellipse229"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4062.5"
+       cy="3452.5"
+       r="1.5748"
+       layerid="11"
+       id="circle231"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4062.5,3484.5"
+     layerid="11"
+     number="2"
+     net="R2_2"
+     plated="Y"
+     id="gge730"
+     locked="0"
+     c_rotation="90"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="R2_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4062.5"
+       cy="3484.5"
+       layerid="11"
+       id="ellipse234"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4062.5"
+       cy="3484.5"
+       r="1.5748"
+       layerid="11"
+       id="circle236"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4081,3426"
+     layerid="11"
+     number="1"
+     net="OUT_1"
+     plated="Y"
+     id="gge740"
+     locked="0"
+     c_rotation="90"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="OUT_1"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4081"
+       cy="3426"
+       layerid="11"
+       id="ellipse239"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4081"
+       cy="3426"
+       r="1.5748"
+       layerid="11"
+       id="circle241"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_pad"
+     c_etype="pinpart"
+     c_origin="4081,3480"
+     layerid="11"
+     number="2"
+     net="R3_2"
+     plated="Y"
+     id="gge745"
+     locked="0"
+     c_rotation="90"
+     c_width="5.9055"
+     c_height="5.9055"
+     title="R3_2"
+     c_shape="ELLIPSE"
+     pasteexpansion="0"
+     solderexpansion="0.4"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       c_etype="pad_shell"
+       cx="4081"
+       cy="3480"
+       layerid="11"
+       id="ellipse244"
+       r="2.95275"
+       style="fill:#000000;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+    <circle
+       c_etype="pad_hole"
+       cx="4081"
+       cy="3480"
+       r="1.5748"
+       layerid="11"
+       id="circle246"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_hole"
+     c_etype="pinpart"
+     c_shapetype="group"
+     c_origin="4201.048,3429.166"
+     layerid="11"
+     id="gge1276"
+     locked="0"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       cx="4201.0479"
+       cy="3429.166"
+       r="1.9685"
+       id="circle249"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:1;shape-rendering:crispEdges" />
+  </g>
+  <g
+     c_partid="part_hole"
+     c_etype="pinpart"
+     c_shapetype="group"
+     c_origin="4201.048,3446.844"
+     layerid="11"
+     id="gge1280"
+     locked="0"
+     style="fill:#000000;stroke:#000000"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)">
+    <circle
+       cx="4201.0479"
+       cy="3446.844"
+       r="1.9685"
+       id="circle252"
+       style="fill:#ffffff;fill-opacity:0;stroke-width:1;shape-rendering:crispEdges" />
+  </g>
+  <polyline
+     points="4020 3525.5 4020 3408"
+     layerid="10"
+     net=""
+     id="gge962"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+  <polyline
+     points="4020 3408 4212.5 3408 4212.5 3508 4195 3525.5 4020 3525.5"
+     layerid="10"
+     net=""
+     id="gge965"
+     locked="0"
+     style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;shape-rendering:crispEdges"
+     transform="matrix(2.5388133,0,0,2.5388129,-6227.4856,-5253.2286)" />
+</svg>
