@@ -8,7 +8,6 @@ float _adcA; // Current
 float _adcV; // Voltage
 
 float _adcRl;      // сопротивление нагрузки; load resistance
-float _adcC = 0.0f; // Емкость; Capacity mAh
 float _adcMWh = 0.0f; // миливатт  час; milliwatt hour
 
 void adcSetup() {
@@ -26,9 +25,13 @@ void adcLoop() {
   _adcV = 0.0f;
   for (int i = 0; i < 30; i++) {
     _adcRAW1 = analogRead(A0);
+    Serial.print("A0: ");
+    Serial.print(_adcRAW1);
     f = (float) _adcRAW1;
     _adcA += ((1.1f * f) / (1023.0f * configR1));
     _adcRAW2 = analogRead(A1);
+    Serial.print("; A1: ");
+    Serial.println(_adcRAW2);
     f = (float) _adcRAW2;
     _adcV += ((1.1f * f) / 1023.0f) * ((configR3 + configR5) / configR5);
     delay(10UL);
@@ -40,15 +43,10 @@ void adcLoop() {
   if (_adcA > configMinA) {
     _adcTime++;
     _adcRl = _adcV / _adcA - configR1;
-    _adcMWh += (_adcA * _adcV) / 3.6f;
-    _adcC += _adcMWh / configRatedVoltage;
+    // 60 * 60 / 1000 = 3.6
+    _adcMWh += (_adcA * _adcA * _adcRl) / 3.6f;
   }
-
-  Serial.print("raw1:");
-  Serial.print(_adcRAW1);
-  Serial.print("; raw2:");
-  Serial.print(_adcRAW2);
-  Serial.print("; A:");
+  Serial.print("A:");
   Serial.print(_adcA);
   Serial.print("; V:");
   Serial.print(_adcV);
@@ -57,10 +55,7 @@ void adcLoop() {
   Serial.print("; Rl:");
   Serial.print(_adcRl);
   Serial.print("; mWh:");
-  Serial.print(_adcMWh);
-  Serial.print("; C:");
-  Serial.print(_adcC);
-  Serial.println("mAh");
+  Serial.println(_adcMWh);
 }
 
 // RAW1
@@ -83,9 +78,10 @@ float adcV() {
   return _adcV;
 }
 
-// Capacity
+// Емкость
+// Capacity mAh
 float adcC() {
-  return _adcC;
+  return _adcMWh / configRatedVoltage;
 }
 
 float adcMWh() {
